@@ -14,6 +14,9 @@ $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
 
 
+      
+
+
 @mixin respond-to($breakpoint)
   @media only screen and (max-width: $breakpoint + px)
     @content
@@ -38,7 +41,10 @@ body
   -webkit-font-feature-settings: "liga", "dlig"
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
-
+.ar h1.post-title,
+.ar .post-content p,
+.post.ar
+  direction: rtl
 .logo-readium
   position: fixed
   left: 10px
@@ -603,3 +609,5 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
+
+
