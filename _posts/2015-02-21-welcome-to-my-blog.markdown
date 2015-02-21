@@ -4,7 +4,7 @@ title:  "Welcome to Myblog!"
 date:   2015-02-21 22:52:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: /assets/article_images/2015-02-22-welcome-to-myblog/desktop.jpg
 ---
 this is the first post i write , in this blog i will write anything come in my mind in life, sports , work , people ..etc.
 
