@@ -13,4 +13,4 @@ permalink: /about/
 
 <p>linkedin : <a href="https://ae.linkedin.com/in/nawrasalbaghdadi/en">https://ae.linkedin.com/in/nawrasalbaghdadi/en</a></p>
 
-<p>You can call me on 0097150 158 2979, email me at <a href="mailto@nawras.albaghdadi@gmail.com">nawras.albaghdadi@gmail.com</a>  or check my linkedin : <a href="https://ae.linkedin.com/in/nawrasalbaghdadi/en">https://ae.linkedin.com/in/nawrasalbaghdadi/en</a></p>
+<p>You can call me on 0097150 158 2979, email me at <a href="mailto@nawras.albaghdadi@gmail.com" target="_top">nawras.albaghdadi@gmail.com</a>  or check my <a href="https://ae.linkedin.com/in/nawrasalbaghdadi/en">linkedin</a></p>
